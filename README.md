@@ -9,9 +9,13 @@ Voici un bot permettant de créer des comptes riot/twitch automatiquement.
 Fonctions du bot :
 
 ↳Création de comptes Twitch
+
 ↳Création de comptes Riot
+
 ↳Association des comptes Twitch/Riot
+
 ↳Vérificateur de validité de compte Riot
+
 ↳Visionneur vidéo pour obtenir un drop et optimiser pour regarder un live compatible drop 24h/24
 
 
